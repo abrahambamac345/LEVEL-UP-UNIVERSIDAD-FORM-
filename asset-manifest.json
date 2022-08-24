@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abrahambamac345/LEVEL-UP-UNIVERSIDAD-FORM-.git/static/css/main.e7ccaefc.css",
+    "main.js": "/abrahambamac345/LEVEL-UP-UNIVERSIDAD-FORM-.git/static/js/main.93ab7492.js",
+    "static/js/787.47f5f44f.chunk.js": "/abrahambamac345/LEVEL-UP-UNIVERSIDAD-FORM-.git/static/js/787.47f5f44f.chunk.js",
+    "index.html": "/abrahambamac345/LEVEL-UP-UNIVERSIDAD-FORM-.git/index.html",
+    "main.e7ccaefc.css.map": "/abrahambamac345/LEVEL-UP-UNIVERSIDAD-FORM-.git/static/css/main.e7ccaefc.css.map",
+    "main.93ab7492.js.map": "/abrahambamac345/LEVEL-UP-UNIVERSIDAD-FORM-.git/static/js/main.93ab7492.js.map",
+    "787.47f5f44f.chunk.js.map": "/abrahambamac345/LEVEL-UP-UNIVERSIDAD-FORM-.git/static/js/787.47f5f44f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7ccaefc.css",
+    "static/js/main.93ab7492.js"
+  ]
+}
